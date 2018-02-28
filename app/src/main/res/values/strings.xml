@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireBaseExample</string>
+
+    <!-- Firebase -->
+    <string name="addButton">Add</string>
+    <string name="removeButton">Remove</string>
+</resources>
